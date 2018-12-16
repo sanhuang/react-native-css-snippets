@@ -3,6 +3,6 @@
 zIndex: $1,
 ]]></content>
     <tabTrigger>zi</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.jsx,source.ts,source.tsx</scope>
     <description>React Css: zIndex</description>
 </snippet>

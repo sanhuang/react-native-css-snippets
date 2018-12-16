@@ -1,3 +1,5 @@
+複製原先作者寫好的snippets，調整成只作用在Typescript(.ts,.tsx)以及babel ES6(.jsx)情況下避免影響原先過多的snippets造成可能問題。
+
 | Trigger  | Content |
 | -------: | ------- |
 | `ass→`   | alignSelf: 'stretch' |
